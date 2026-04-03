@@ -7,4 +7,5 @@ Array List PG4 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignmen
 Array List PG5 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/P5_output.txt  
 Linked List PG6 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/P6_output.txt  
 Linked List PG7 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/P7_output.txt  
-Linked List PG8 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/P8_output.txt
+Linked List PG8 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/P8_output.txt  
+Linked List PG9 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/P9_output.txt
