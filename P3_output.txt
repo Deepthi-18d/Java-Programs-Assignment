@@ -1,0 +1,4 @@
+Before sorting:
+[Orange, geen, pink, red, Blue]
+After sorting:
+[Blue, Orange, geen, pink, red]
