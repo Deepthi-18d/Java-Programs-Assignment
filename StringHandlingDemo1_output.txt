@@ -1,0 +1,60 @@
+=== String Creation and Basic Operations ===
+Original strings:
+str1: Hello, World!
+str2: Java Programming
+
+=== Length and Character Access ===
+Length of str1: 13
+Character at index 4 in str1: o
+
+=== String Comparison ===
+str1 equals str3: false
+str1 equals str3 (ignore case): true
+str1 compareTo str3: -32
+
+=== String Searching ===
+Index of 'World' in str1: 7
+Last index of 'o' in str1: 8
+str1 contains 'Hello': true
+
+=== Substring Operations ===
+Substring of str1 (7 to end): World!
+Substring of str1 (0 to 5): Hello
+
+=== String Modification ===
+Uppercase: HELLO, WORLD!
+Lowercase: hello, world!
+Replace 'World' with 'Java': Hello, Java!
+
+=== Whitespace Handling ===
+Original: ' Trimming Example '
+After trim: 'Trimming Example'
+
+=== String Concatenation ===
+Using + operator: Hello World
+Using concat(): Hello World
+
+=== String Splitting ===
+Original CSV: Java,Python,C++,JavaScript
+After splitting:
+Language 1: Java
+Language 2: Python
+Language 3: C++
+Language 4: JavaScript
+
+=== StringBuilder Demo ===
+StringBuilder result: Learning Java Programming
+After insert: Learning Core Java Programming
+After reverse: gnimmargorP avaJ eroC gninraeL
+
+=== String Formatting ===
+Formatted string: Name: John, Age: 25, Height: 1.75
+
+=== String Properties ===
+Is empty: false
+Starts with 'Ja': true
+Ends with '123': true
+
+=== Practical Example: Email Validation ===
+Email: user@example.com
+Is valid: true
