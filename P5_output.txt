@@ -1,0 +1,3 @@
+[Orange, green, pink, red, Blue]
+Removing the nth Element:true
+[Orange, pink, red, Blue]
