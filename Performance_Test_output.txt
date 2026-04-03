@@ -1,0 +1,2 @@
+Time taken by StringBuffer: 2 ms
+Time taken by StringBuilder: 1 ms
