@@ -22,5 +22,6 @@ CapitalizeWords o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignme
 TruncateString o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/TruncateString_output.png  
 CheckNumeric o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CheckNumeric_output.png  
 RandomStringGen o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/RandomStringGen_output.png  
-CountWords o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CountWords_output.png
+CountWords o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CountWords_output.png  
+Swing_Example o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/Swing_Example_output.png
 
