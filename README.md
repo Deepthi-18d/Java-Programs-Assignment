@@ -20,4 +20,5 @@ PalindromeCheck o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignme
 RemoveWhitespace o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/RemoveWhitespace_output.png  
 CapitalizeWords o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CapitalizeWords_output.png  
 TruncateString o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/TruncateString_output.png  
+CheckNumeric o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CheckNumeric_output.png
 
