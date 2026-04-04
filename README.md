@@ -17,4 +17,5 @@ CheckEmpty o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/bl
 CountOccurences o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CountOccurrences_output.png  
 ReverseString o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/ReverseString_output.png  
 PalindromeCheck o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/PalindromeCheck_output.png  
-RemoveWhitespace o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/RemoveWhitespace_output.png
+RemoveWhitespace o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/RemoveWhitespace_output.png  
+CapitalizeWords o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CapitalizeWords_output.png
