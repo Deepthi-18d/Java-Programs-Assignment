@@ -26,5 +26,6 @@ CountWords o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/bl
 Swing_Example o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/Swing_Example_output.png  
 ButtonExample o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/ButtonExample_output.png  
 Buttons o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/Buttons_output.png  
-JListExample o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/JListExample_output.png
+JListExample o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/JListExample_output.png  
+TabbedPaneExample o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/TabbedPaneExample_output.png
 
