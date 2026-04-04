@@ -29,5 +29,6 @@ Buttons o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/
 JListExample o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/JListExample_output.png  
 TabbedPaneExample o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/TabbedPaneExample_output.png  
 CountryCapitalList o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CountryCapitalList_output.png  
-ColorTabbedPlane o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/ColorTabbedPlane_output.png
+ColorTabbedPlane o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/ColorTabbedPlane_output.png  
+Servlet o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/Servlet_output.png
 
