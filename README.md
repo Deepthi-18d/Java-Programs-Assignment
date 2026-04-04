@@ -16,4 +16,5 @@ StringHandlingDemo1 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assi
 CheckEmpty o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CheckEmpty_output.txt  
 CountOccurences o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CountOccurrences_output.png  
 ReverseString o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/ReverseString_output.png  
-PalindromeCheck o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/PalindromeCheck_output.png
+PalindromeCheck o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/PalindromeCheck_output.png  
+RemoveWhitespace o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/RemoveWhitespace_output.png
