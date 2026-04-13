@@ -12,7 +12,7 @@ Linked List PG9 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignme
 Linked List PG10 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/P10_output.png    
 StringHandlingDemo o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/StringHandlingDemo_output.png   
 Performance_Test o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/Performance_Test_output.png  
-StringHandlingDemo1 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/StringHandlingDemo1_output.txt  
+StringHandlingDemo1 o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/StringHandlingDemo1_output.png  
 CheckEmpty o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CheckEmpty_output.png    
 CountOccurences o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/CountOccurrences_output.png  
 ReverseString o/p link : https://github.com/Deepthi-18d/Java-Programs-Assignment/blob/main/ReverseString_output.png  
