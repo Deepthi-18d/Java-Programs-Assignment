@@ -1,5 +1,0 @@
-index: 0 value:Orange
-index: 1 value:geen
-index: 2 value:pink
-index: 3 value:red
-index: 4 value:Blue
