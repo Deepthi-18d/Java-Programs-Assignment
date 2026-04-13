@@ -1,4 +1,0 @@
-Before swapping
-[Orange, green, pink, red, Blue]
-After swapping
-[Orange, green, red, pink, Blue]
