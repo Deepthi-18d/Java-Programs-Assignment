@@ -1,3 +1,5 @@
+//Write a java program for getting different colors through ArrayList interface and search whether
+//the color &quot;Red&quot; is available or not
 package basics;
 import java.util.*;
 public class P1 {
