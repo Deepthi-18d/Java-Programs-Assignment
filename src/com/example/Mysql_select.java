@@ -1,4 +1,7 @@
-package com.example;
+
+//Read all the existing records from the table coffee which is from the database test and insert a
+//new coffee product into it
+	package com.example;
 
 
 	import java.sql.*;
