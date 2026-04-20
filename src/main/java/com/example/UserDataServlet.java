@@ -1,7 +1,6 @@
-//9.c Build a Session Management using JSP program for getting session expiry time and your name
-//through text box and press submit to display the message by greeting Hello your name!.
-//press the following link to check it within the set session time or wait there for the minutes set to see
-//the session expiry.
+//10.a Build an Application to get Username,Email and Designation through JSP called index.jsp with
+//client sided validation and submit to the servlet called UserDataServlet and process all the fields with
+//server sided validation and display all the data through result.jsp with a link to move to the client side
 package com.example;
 import java.io.IOException;
 import javax.servlet.*;
