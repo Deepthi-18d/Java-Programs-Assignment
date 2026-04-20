@@ -1,6 +1,6 @@
+//Develop a Swing program in Java to create a Tabbed Pan of Cyan, Magenta and Yellow and
+//display the concerned color whenever the specific tab is selected in the Pan
 package basics;
-
-
 import java.awt.Color;
 import javax.swing.*;
 import javax.swing.event.ChangeEvent;
