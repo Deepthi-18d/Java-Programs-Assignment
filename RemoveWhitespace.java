@@ -1,6 +1,7 @@
 
 //Write a Java Program for Eliminating all whitespace characters from a string using user defined
-//function removeWhitespace()package basics;
+//function removeWhitespace()
+package basics;
 
 public class RemoveWhitespace {
 	    public static String removeWhitespace(String str) {
